@@ -10,7 +10,7 @@
 
 ## Problems
 
-### 1. [DCP-1](/DCP-1.py)
+### [DCP-1](/DCP-1.py)
 
   This problem was recently asked by Google.
   Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
